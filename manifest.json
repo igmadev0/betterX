@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Better X",
+    "version": "1.0",
+    "description": "Customize X to enhance your browsing experience on X",
+    "permissions": ["tabs", "https://*/*"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
+  
